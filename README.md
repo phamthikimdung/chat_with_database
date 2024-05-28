@@ -1,6 +1,7 @@
 # Gemini SQL Query App
 
 This project is a web application that converts natural language questions into SQL queries using Google Generative AI and executes them on a SQLite database. The application is built using Streamlit for the web interface.
+![Screenshot 2024-05-28 081613](https://github.com/phamthikimdung/chat_with_database/assets/169218029/5654d115-573f-4dae-b1ed-211c816ebf28)
 
 ## Features
 
